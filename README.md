@@ -3,4 +3,4 @@
 
 Person with the most stars at the end wins
 
-Game includes special stars that are worth more points
+Game includes special stars that are worth more points ghfhd
